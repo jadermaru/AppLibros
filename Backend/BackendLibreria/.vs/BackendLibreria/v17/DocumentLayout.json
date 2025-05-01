@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\services\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\services\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\dtos\\createnotadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\dtos\\createnotadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\services\\inotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\services\\inotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\dtos\\bookdtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\dtos\\bookdtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|e:\\documentos\\prueba control box\\aplicaci\u00F3n de rese\u00F1as de libros\\backend\\backendlibreria\\backendlibreria\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C85D8B-AAF3-47C0-9407-718FA0B735F5}|BackendLibreria\\BackendLibreria.csproj|solutionrelative:backendlibreria\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BackendLibreria\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T03:56:46.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotaService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\NotaService.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Services\\NotaService.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\NotaService.cs",
+              "RelativeToolTip": "BackendLibreria\\Services\\NotaService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:53:34.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateBookDTO.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\DTOs\\CreateBookDTO.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\DTOs\\CreateBookDTO.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\DTOs\\CreateBookDTO.cs",
+              "RelativeToolTip": "BackendLibreria\\DTOs\\CreateBookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:32:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BackendLibreria\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:45:12.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Data\\DbInitializer.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "BackendLibreria\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:02:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotaController.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\NotaController.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Controllers\\NotaController.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\NotaController.cs",
+              "RelativeToolTip": "BackendLibreria\\Controllers\\NotaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:57:29.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotaService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\INotaService.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Services\\INotaService.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\INotaService.cs",
+              "RelativeToolTip": "BackendLibreria\\Services\\INotaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:52:34.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Models\\Nota.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Models\\Nota.cs",
+              "RelativeToolTip": "BackendLibreria\\Models\\Nota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:51:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Program.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Program.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Program.cs",
+              "RelativeToolTip": "BackendLibreria\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:39:52.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Services\\TokenService.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\TokenService.cs",
+              "RelativeToolTip": "BackendLibreria\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:44:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Controllers\\TokenController.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "BackendLibreria\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T02:20:16.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BackendLibreria\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:40:44.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateNotaDTO.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\DTOs\\CreateNotaDTO.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\DTOs\\CreateNotaDTO.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\DTOs\\CreateNotaDTO.cs",
+              "RelativeToolTip": "BackendLibreria\\DTOs\\CreateNotaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:21:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookDTORequest.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\DTOs\\BookDTORequest.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\DTOs\\BookDTORequest.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\DTOs\\BookDTORequest.cs",
+              "RelativeToolTip": "BackendLibreria\\DTOs\\BookDTORequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:13:54.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Services\\BookService.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\BookService.cs",
+              "RelativeToolTip": "BackendLibreria\\Services\\BookService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:19:51.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BackendLibreria\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:23:49.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Services\\IUserService.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\IUserService.cs",
+              "RelativeToolTip": "BackendLibreria\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:10:39.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackendLibreria\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:18:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Services\\ICategoryService.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "BackendLibreria\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:44:48.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Services\\UserService.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Services\\UserService.cs",
+              "RelativeToolTip": "BackendLibreria\\Services\\UserService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:12:06.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendLibreria\\appsettings.json",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\appsettings.json",
+              "RelativeToolTip": "BackendLibreria\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T21:12:57.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BackendLibreria\\Models\\Category.cs",
+              "ToolTip": "E:\\Documentos\\Prueba Control Box\\Aplicaci\u00F3n de rese\u00F1as de libros\\Backend\\BackendLibreria\\BackendLibreria\\Models\\Category.cs",
+              "RelativeToolTip": "BackendLibreria\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:57:30.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
