@@ -20,4 +20,4 @@ COPY --from=build /app/out .
 ENV ASPNETCORE_URLS=http://0.0.0.0:${PORT}
 EXPOSE 8080
 
-ENTRYPOINT ["dotnet", "BackendLibreria.dll"]
+ENTRYPOINT ["dotnet", "BackendLibreriaApp.dll"]
