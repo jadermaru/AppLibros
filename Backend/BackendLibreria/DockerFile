@@ -10,7 +10,7 @@ COPY . .
 
 # Cambia al directorio del proyecto y publica
 WORKDIR /src/Backend/BackendLibreria
-RUN dotnet publish BackendLibreria.csproj -c Release -o /app/out
+RUN dotnet publish BackendLibreria.csproj -c Release -o /app/out -p:AssemblyName=BackendLibreriaApp
 
 # Imagen final
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
